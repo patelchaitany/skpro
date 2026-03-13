@@ -171,6 +171,14 @@ Distributional boosting
 
     XGBoostLSS
 
+.. currentmodule:: skpro.regression.pyboostlss
+
+.. autosummary::
+    :toctree: auto_generated/
+    :template: class.rst
+
+    PyBoostLSS
+
 Naive regressors and baselines
 ------------------------------
 
